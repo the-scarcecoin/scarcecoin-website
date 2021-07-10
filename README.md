@@ -1,2 +1,5 @@
-# scarcecoin-website
-The official website of The ScarceCoin Project: https://scarcecoin.org
+# The official website of The ScarceCoin Project
+
+**Hosted in a decentralized way on IPFS.**
+
+[https://scarcecoin.org](https://scarcecoin.org)
